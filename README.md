@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Imari1600/Imari1600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Imari Dennis 👋
+Software Engineer focused on building secure, scalable backend systems and APIs.
+🛠️ Tech
+Python | Java | C++ | Flask | FastAPI | PostgreSQL | Docker | GCP | Linux
+📂 Projects
+Pizza Ordering System – Backend API with authentication and validation
+SecureGov Platform – Secure SDLC + static code analysis
+Sentiment Analysis Engine – Processed 10K+ reviews using Python
+Data Pipeline – Scalable data processing system
+📫 Contact
+LinkedIn: https://linkedin.com/in/imari-dennis-507b29175
+GitHub: https://github.com/Imari1600
